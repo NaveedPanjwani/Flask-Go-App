@@ -1,2 +1,2 @@
-# Flask-Go-App
-frontend: React, Backend: Go
+Frontend: React, Backend: GO, Database: MongoDB
+
